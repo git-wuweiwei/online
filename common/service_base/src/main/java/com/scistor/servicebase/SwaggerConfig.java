@@ -39,7 +39,7 @@ public class SwaggerConfig {
                 .title("吴巍巍在线Online系统")
                 .description("本文档描述了Online微服务接口定义")
                 .version("1.0")
-                .contact(new Contact("java", "http://atguigu.com", "1123@qq.com"))
+                .contact(new Contact("java", "http://www.scistor.com", "412501183@qq.com"))
                 .build();
     }
 

@@ -12,7 +12,7 @@ import org.springframework.context.annotation.ComponentScan;
  */
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"com.scistor"})
+@ComponentScan(basePackages = {"com.scistor"}) //找到其他module下面的Configuration类
 public class EduApplication {
 
     public static void main(String[] args) {
